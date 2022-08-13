@@ -16,8 +16,8 @@ public class PongPanel extends JPanel implements ActionListener, KeyListener {
 	// Constants
 	private final static Color BACKGROUND_COLOR = Color.BLACK;
 	private final static int TIMER_DELAY = 5;
-	private final static int BALL_MOVEMENT_SPEED = 4;
-	private final static int PADDLE_MOVEMENT_SPEED = 3;
+	private final static int BALL_MOVEMENT_SPEED = 5;
+	private final static int PADDLE_MOVEMENT_SPEED = 4;
 	private final static int POINTS_TO_WIN = 11;
 	private final static int SCORE_X_PADDING = 100;
 	private final static int SCORE_Y_PADDING = 100;
